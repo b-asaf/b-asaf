@@ -1,5 +1,3 @@
-### Hi there 👋 [under construction]
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HUE4sDmjViSkKqLY77/giphy.gif" width="150" />
   <div id="badges">
@@ -52,8 +50,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30" height="30" title="NextJs" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="30" height="30" title="NestJs" />
 </div>
+
 <!--
 **b-asaf/b-asaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+how to create/update the readme file: https://www.sitepoint.com/github-profile-readme/
+
+Top Langs:
+ -> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-asaf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-> additional exampls for stats: https://github.com/Rishabh062/Rishabh062?tab=readme-ov-file
 
 Here are some ideas to get you started:
 
