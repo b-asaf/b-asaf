@@ -12,6 +12,46 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+---
+### 🛠️: Languages and Tools:
+
+#### Front End:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30" height="30" title="JS" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30" height="30" title="TS" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="30" height="30" title="jQuery" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="30" height="30" title="AngularJs" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30" title="React & React-Native" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" width="30" height="30" title="Storybook" />
+</div>
+
+#### Back End & DB:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" title="NodeJs" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30" title="ExpressJs" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30" height="30" title="MySql" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" title="MongoDB" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30" title="C#" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="30" height="30" title="ASP .Net & .Net Core" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30" height="30" title="Docker" />
+</div>
+
+### Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="30" height="30" title="Jira" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30" height="30" title="GitLab" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30" title="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="30" height="30" title="Jenkins" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" title="AWS" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="30" height="30" title="Azure DevOps" />
+</div>
+
+### Playing and Experimenting with:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30" height="30" title="NextJs" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="30" height="30" title="NestJs" />
+</div>
 <!--
 **b-asaf/b-asaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
