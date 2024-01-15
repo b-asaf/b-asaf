@@ -60,6 +60,8 @@ Top Langs:
  -> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-asaf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -> additional examples for stats: https://github.com/Rishabh062/Rishabh062?tab=readme-ov-file
 
+-> https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
