@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30" height="30" title="Docker" />
 </div>
 
-### Tools:
+#### Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="30" height="30" title="Jira" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30" height="30" title="GitLab" />
@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="30" height="30" title="Azure DevOps" />
 </div>
 
-### Playing and Experimenting with:
+#### Playing and Experimenting with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30" height="30" title="NextJs" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="30" height="30" title="NestJs" />
