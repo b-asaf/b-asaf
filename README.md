@@ -58,7 +58,7 @@ how to create/update the readme file: https://www.sitepoint.com/github-profile-r
 
 Top Langs:
  -> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-asaf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--> additional exampls for stats: https://github.com/Rishabh062/Rishabh062?tab=readme-ov-file
+-> additional examples for stats: https://github.com/Rishabh062/Rishabh062?tab=readme-ov-file
 
 Here are some ideas to get you started:
 
