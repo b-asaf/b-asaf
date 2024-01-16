@@ -31,6 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30" alt="ExpressJs" title="ExpressJs" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySql" title="MySql" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB" title="MongoDB" />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSql" title="PostgreSql" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#" title="C#" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="30" height="30" alt="ASP .Net & .Net Core" title="ASP .Net & .Net Core" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" title="Docker" />
