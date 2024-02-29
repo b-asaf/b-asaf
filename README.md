@@ -51,7 +51,7 @@
 #### Playing and Experimenting with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="NextJs" title="NextJs" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="30" height="30" alt="NestJs" title="NestJs" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="30" height="30" alt="NestJs" title="NestJs" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30" height="30" alt="Vue" title="Vue" />
 </div>
 
