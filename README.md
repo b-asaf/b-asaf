@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30" height="30" alt="GitLab" title="GitLab" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30" alt="GitHub" title="GitHub" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="30" height="30" alt="Jenkins" title="Jenkins" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" alt="AWS" title="AWS" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" alt="AWS" title="AWS" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="30" height="30" alt="Azure DevOps" title="Azure DevOps" />
 </div>
 
